@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactecom/static/css/main.c0bb8e2c.chunk.css",
+    "main.js": "/reactecom/static/js/main.6fcc93a0.chunk.js",
+    "main.js.map": "/reactecom/static/js/main.6fcc93a0.chunk.js.map",
+    "runtime-main.js": "/reactecom/static/js/runtime-main.f422455e.js",
+    "runtime-main.js.map": "/reactecom/static/js/runtime-main.f422455e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reactecom/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7a37ddb2.chunk.js": "/reactecom/static/js/2.7a37ddb2.chunk.js",
+    "static/js/2.7a37ddb2.chunk.js.map": "/reactecom/static/js/2.7a37ddb2.chunk.js.map",
+    "index.html": "/reactecom/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reactecom/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.c0bb8e2c.chunk.css.map": "/reactecom/static/css/main.c0bb8e2c.chunk.css.map",
+    "static/js/2.7a37ddb2.chunk.js.LICENSE.txt": "/reactecom/static/js/2.7a37ddb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f422455e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7a37ddb2.chunk.js",
+    "static/css/main.c0bb8e2c.chunk.css",
+    "static/js/main.6fcc93a0.chunk.js"
+  ]
+}
